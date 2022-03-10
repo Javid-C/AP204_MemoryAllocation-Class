@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\AP204_Stack_and_Heap_Class\AP204_Stack_and_Heap_Class\bin\Debug\netcoreapp3.1\AP204_Stack_and_Heap_Class.exe
+C:\Users\Lenovo\source\repos\AP204_Stack_and_Heap_Class\AP204_Stack_and_Heap_Class\bin\Debug\netcoreapp3.1\AP204_Stack_and_Heap_Class.deps.json
+C:\Users\Lenovo\source\repos\AP204_Stack_and_Heap_Class\AP204_Stack_and_Heap_Class\bin\Debug\netcoreapp3.1\AP204_Stack_and_Heap_Class.runtimeconfig.json
+C:\Users\Lenovo\source\repos\AP204_Stack_and_Heap_Class\AP204_Stack_and_Heap_Class\bin\Debug\netcoreapp3.1\AP204_Stack_and_Heap_Class.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\AP204_Stack_and_Heap_Class\AP204_Stack_and_Heap_Class\bin\Debug\netcoreapp3.1\AP204_Stack_and_Heap_Class.dll
+C:\Users\Lenovo\source\repos\AP204_Stack_and_Heap_Class\AP204_Stack_and_Heap_Class\bin\Debug\netcoreapp3.1\AP204_Stack_and_Heap_Class.pdb
+C:\Users\Lenovo\source\repos\AP204_Stack_and_Heap_Class\AP204_Stack_and_Heap_Class\obj\Debug\netcoreapp3.1\AP204_Stack_and_Heap_Class.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AP204_Stack_and_Heap_Class\AP204_Stack_and_Heap_Class\obj\Debug\netcoreapp3.1\AP204_Stack_and_Heap_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\AP204_Stack_and_Heap_Class\AP204_Stack_and_Heap_Class\obj\Debug\netcoreapp3.1\AP204_Stack_and_Heap_Class.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\AP204_Stack_and_Heap_Class\AP204_Stack_and_Heap_Class\obj\Debug\netcoreapp3.1\AP204_Stack_and_Heap_Class.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\AP204_Stack_and_Heap_Class\AP204_Stack_and_Heap_Class\obj\Debug\netcoreapp3.1\AP204_Stack_and_Heap_Class.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AP204_Stack_and_Heap_Class\AP204_Stack_and_Heap_Class\obj\Debug\netcoreapp3.1\AP204_Stack_and_Heap_Class.dll
+C:\Users\Lenovo\source\repos\AP204_Stack_and_Heap_Class\AP204_Stack_and_Heap_Class\obj\Debug\netcoreapp3.1\AP204_Stack_and_Heap_Class.pdb
+C:\Users\Lenovo\source\repos\AP204_Stack_and_Heap_Class\AP204_Stack_and_Heap_Class\obj\Debug\netcoreapp3.1\AP204_Stack_and_Heap_Class.genruntimeconfig.cache
